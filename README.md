@@ -1,5 +1,46 @@
 ### Hi there 👋
 
+I'm Alexander Li, a second year Engineering Physics student at UBC. I'm looking to do something interesting on co-op for the Winter 2023 term from which I can learn as much as possible--about anything, really! 
+
+# My interests, and some issues I care about include:
+* Mathematics, specifically logic and real analysis
+* Aircraft, aerodynamics and aeronautical engineering
+* Space exploration and astronomy
+* Geopolitical and military strategy, and military doctrine, especially pertaining to air and naval forces (just a topic I found really interesting through reading)
+* Urban design and transport planning (an issue I've grown to care a lot about from Jane Jacobs and from exploring my home city of Toronto more)
+* Macroeconomics (which I took an ECON course to get informed about)
+
+I'm more of an avid reader than a practical person, but I've recently been working on pursuing some of my technical interests (and technical skills I want to gain) through personal projects, my choice of major, and elective courses. I've learned a great deal from all of them, and I hope to continue learning as much as I can through future projects, courses, and co-op experiences!
+
+# 🔭 I’m currently working on ...
+* In CPEN 221 (software construction): a graph theory project for large datasets. Eventually, this will be used to model a path maximization game--Star Wars themed!
+* In ENPH 259 (technical communication / circuits lab): for our final lab, a servo motor circuit that will control the rotational speed of a motor. This will integrate a bunch of analog and digital circuit components I previously utilized, including op-amps, d-latches, and counters!
+* As a side project: I'm volunteering for UBC's high school Physics Olympics event as a tester for one of their build projects. We're building elastic-powered boats that will go as fast as possible but that will minimize acceleration in all directions. I expect to do a bit of Solidworks design and 3-D printing for fabrication of paddlewheels, propellors, and other propulsion system components.
+
+# 🌱 I’m currently learning ...
+* In CPEN 221: how to design for concurrency and parallelism. Previously, we covered basic principles of software development (such as specifications, exceptions, and testing), subtyping and polymorphism, lambdas, dynamic programming and some other small topics.
+* In ENPH 259 and ELEC 204 (linear circuits): about circuit analysis techniques and basic analog and digital circuits
+* In MATH 255: currently doing Laplace transformations, previously techniques for solving differential equations and applications to physics
+* In MATH 217: currently going through Green's theorem and applications
+* In MATH 220 (mathematical proof): currently working with sets and relations. Soon, cardinality and infinite sets!
+
+# 🔧 A few past projects I'm most proud of ...
+* Building foam board RC planes. This is something I've wanted to do for a while and finally gathered the motivation to push forwards with! I flew these prototypes at my local MAAC club (Humber Valley Radio Control Flyers) over the summer. It was in this project that I learned to solder and got to practice a lot with mechanical fabrication (if only with $2 sheets of foam board).
+* Simulated quadruped robot in Webots. Something I did in my grade 12 robotics class during COVID, when we were unfortunately unable to do in-person robot construction. Me and my partner decided to choose this as our own topic for the final project, not knowing how difficult it was going to be to create a coordinated walking and turning pattern from scratch, but through copious application of geometry and problem-solving skills we managed to make something that works!
+* IR remote arduino car. This was a small thing I did at home in the summer before heading to UBC to practice my circuitry and programming skills, and to test out the sensor kit I bought. I learned to use Arduino's IRremote library and an IR sender and receiver to encode command signals from a joystick controller to control the car. Last summer I bought a gearbox (so the car can actually move on its own power) and also got it to work with the radio TX/RX I used for my RC planes.
+
+# 📚 A select bibliography of books I've read and other documents ...
+* _Structures, or why things don't fall down._ (J.E. Gordon)
+* _Aerodynamics for Naval Aviators: NAVWEPS 00-80T-80_ (H. H. Hurt)
+* _Some Principles of Naval Strategy_ (Julian Corbett)
+* _Case Studies in the Achievement of Air Superiority_ (Benjamin Franklin Cooling)
+* _The Death and Life of Great American Cities_ (Jane Jacobs)
+* _China's Gilded Age: The Paradox of Economic Boom and Vast Corruption_ (Yuen Yuen Ang)
+
+- ⚡ Fun fact: I'm a huge fan of Monty Python and Star Trek!
+
+Course policy prevents me from making public some of my course projects and assignments, but I'd be happy to talk more about them if you ask. And if you see me in person, do ask me about anything I've put on here! I'm still working on this page and I'd love to show more about my interests and what I've been doing.
+
 <!--
 **rcaerbannog/rcaerbannog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

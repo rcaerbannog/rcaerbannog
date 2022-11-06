@@ -2,7 +2,7 @@
 
 This is a project I started planning during the winter break of 2021-2022, and worked on over last summer. I wanted to practice my design skills and apply the theoretical aerodynamics knowledge I read up on by building something that could actually fly. 
 
-I ordered some electrical components (brushless DC motor, ESC, TX/RX, lipo batteries, servos), and manufactured the airframes and wings out of foam board ($1.50 or so per 20x30 inch sheet at Dollarama or DollarTree) covered with packing tape. I based my wing airfoil shape and production process off of Experimental Airlines's [Armin wing (YouTube)]https://youtu.be/karr67ZYho4 and made the fuselage a simple tube. 
+I ordered some electrical components (brushless DC motor, ESC, TX/RX, lipo batteries, servos), and manufactured the airframes and wings out of foam board ($1.50 or so per 20x30 inch sheet at Dollarama or DollarTree) covered with packing tape. I based my wing airfoil shape and production process off of Experimental Airlines's [Armin wing (YouTube)](https://youtu.be/karr67ZYho4) and made the fuselage a simple tube. 
 
 I made the following prototypes:
 * A simple glider to test out my wings (done during the winter break)

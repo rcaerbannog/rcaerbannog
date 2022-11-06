@@ -1,0 +1,7 @@
+OOP
+Never pass the self argument into object methods; Python always passes it for you, and passing it explicitly adds another argument.
+Even in objects, object attributes MUST be referred to as self.attribute
+
+Class variables (equivalent to static variables in Java) are defined in the class body, but outside the __init__ method
+Object attributes are defined in the __init__ method, as self.attribute
+Static methods can be declared using the @staticmethod decorator above the definition statement

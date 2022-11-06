@@ -1,0 +1,41 @@
+Goals: 
+-practice fabricating a foam board wing 
+-test it in a simple glider
+
+Outcomes:
+-wing successfully fabricated
+-glider achieved flight but with low gliding performance and fragile stability
+
+WING DESCRIPTION
+
+A 28" span wing of aspect ratio 7.0 was made from folded foam board covered in tape, using foam former strips to shape the airfoil section. The section is of 4" (102mm) chord and ~15mm thickness for a thickness-chord ratio of 15%, with maximum thickness at 15-25% chord. The bottom is flatter than the top, giving the wing slight positive camber. The trailing 1" is made from the top board only, bevel-cut to a sharp edge. Ailerons 1" deep and 4" (102mm) wide were cut from the left and right ends of the wing. The wing characteristics were chosen to work with the limiting foam board length of 28" while using a more-or-less conventional airfoil section capable of being fabricated using only home tools.
+
+One production problems was that the trailing half of the bottom skin curved up due to shear stress applied by the top skin instead of remaining flat, as was the case in videos demonstrating the foam board/depron wing construction technique used in the project. This makes it harder to attach the wing to the top of a fuselage and reduces the wing's camber, decreasing the maximum section coefficient of lift. One solution is to make a larger wing with more gradual curvature to reduce bending strain in the top board. Moving back the formers may also allow more gradual curvature while moving structural support closer to the trailing half where the bending occurs. Removing the paper from the interior of the upper skin will also reduce its stiffness while finishing the bottom half with tape beforehand will increase its stiffness.
+
+I recommend 3 potential templates for future wing designs to resolve these issues:
+1) 4" (3+1) 15% section, with 1 layer 1" formers set 1/2" back from fold. 
+2) 5" (4+1) 12% section, with 1 layer 5/16" formers set 1/2" back from fold. 
+3) 6" (5+1) 13% section, with 2 layers: 2 1/4" former + 1" formers with 1/4" dowel, set 3/4" back from fold
+
+Remove the paper from the interior of the upper skin to reduce stiffness.
+Remove the paper from the top former.
+Aim for maximum thickness at 30% MAC or further back.
+Test: extend bottom by 1/8"-1/4" to make more gradual fold, top by 1/4" to account for curvature? Or leave as is? (Probably fine.)
+For uncontrolled glider tests, no control surfaces should be cut (though they can easily be added in conversion to controlled plane)
+Attach wings by rubber bands
+Use standoff rails (read: foam spacers or popsicle sticks) to compensate for non-flat surface or dihedral
+
+You can make foam board box tubes for simple fuselage that can hold electronics (Experimental Airlines: FOAMBOARD FUSELAGE TUBES). 4 sides + 2 halves; score or emboss edges
+Use makeshift glued popsicle sticks to construct dihedral angle connectors, PVC cards for attaching polyhedral panels. (With ~15 degrees dihedral or 50% 30 degrees flat polyhedral panel, no aileron is necessary--all turning can be done by rudder)
+
+GLIDER DESCRIPTION
+
+Recommendations:
+1) Always make sure CG is forwards of AC (~30% MAC)
+2) On unloaded gliders, place wing further back to require less ballast to shift CG forwards
+3) On powered aircraft: motor, batteries, and controls will add weight forwards of CG. Wing should be placed farther forwards
+4) On uncontrolled gliders, rely on stability (e.g. CG placement, tail, dihedral/polyhedral panels) for straight flight; don't cut control surfaces
+5) When stability is in doubt, use a long fuselage and tail (default 28"/30", go longer by telescoping tubes)
+
+
+Research: how to actuate control surfaces on RC plane. (YT: Experimental Airlines; online articles)

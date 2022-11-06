@@ -1,0 +1,29 @@
+Packing tape (as wide as possible)--scotch packing tape? Or something similar to what I have?
+3M extreme mounting tape (thin, strong)
+Dollartree/Dollarama foam board
+Blank gift card/ID card for polyhedral panels (CR80 30 Mil PVC Cards--available on Amazon)
+
+Note that all planes flown without a drone certificate, or with a basic certificate in restricted airspace (including all my local parks due to Downsview and Buttonville), must be under 250g. Planes flown with a basic license under 25 kg outside of restricted airspace, or under MAAC certification under 35 kg, are OK.
+
+Note: FT Tiny Trainer glider will be under 250g, but not with power added
+A 30" foam flyer will almost certainly exceed 250g, so must be held for MAAC membership
+
+
+
+
+Soldering iron
+Lead-free solder
+
+Backorder Motor: Turnigy D2205-2300KV 28g Brushless Motor CW (M5 shaft: screw on) (can take 6045 with 2S/3S, 5045 with 4S)
+6040 prop
+3.5mm bullet connectors
+heat shrink wrapping
+
+Find supplies on/at:
+DollarTree
+amazon.ca
+tapebrothers.com
+
+Note that for CW props, the plane will naturally yaw left. So thrust line should be offset right a few degrees.
+For CCW props, the plane will yaw right, so thrust line should be offset left.
+(There are many contributions to the yaw tendency, but its direction can be determined from engine torque roll + adverse yaw)

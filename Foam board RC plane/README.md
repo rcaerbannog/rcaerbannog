@@ -14,6 +14,7 @@ I made the following prototypes:
 I registered with the MAAC (Model Aeronautics Association of Canada) and joined a local RC flying club, Humber Valley Radio Control Flyers, where I learned to fly with an instructor on my FW40 and FW30 prototypes. 
 
 **NOTE: I'll soon link to a video of me flying my FW30 prototype at HVRCF.** As it turns out, it's been recorded on my mom's phone and I've just asked her to send it to me.
+You can see me testing the controls here: https://youtu.be/0g1IyhvnVbM
 
 These are some of the skills I learned or practiced during this project:
 * Application of aerodynamic principles to the control stability of a real plane (e.g. balancing center of gravity with center of lift)
